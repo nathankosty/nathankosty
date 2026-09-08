@@ -2,7 +2,7 @@
 
 Computer science student graduating **Spring 2027**, looking for software engineering and data roles.
 
-I build sports analytics and game-analysis tools — mostly things that take raw event data and turn it into a useful judgment about what actually happened.
+I build sports analytics and game-analysis tools, mostly things that take raw event data and turn it into a useful judgment about what actually happened.
 
 ---
 
@@ -14,7 +14,7 @@ Box-score stats misrepresent ultimate frisbee, so I built a per-point player val
 
 ### ♟ [Catan Review](https://github.com/nathankosty/catan-review) · [live](https://catan-review.vercel.app)
 
-Chess.com-style move-quality analysis for Settlers of Catan — win-probability eval bar, per-decision grades, accuracy report cards. The tested Python engine runs *in your browser* under Pyodide/WebAssembly, so the deployed app has no backend at all. Estimates come with confidence intervals, and labels inside the error margin are flagged rather than asserted.
+Chess.com-style move-quality analysis for Settlers of Catan: win-probability eval bar, per-decision grades, accuracy report cards. The tested Python engine runs *in your browser* under Pyodide/WebAssembly, so the deployed app has no backend at all. Estimates come with confidence intervals, and labels inside the error margin are flagged rather than asserted.
 
 `Python` `Pyodide/WASM` `React` `Monte Carlo`
 
@@ -26,7 +26,7 @@ Relational schema design and an ETL pipeline loading World Bank and Our World in
 
 ### 🏃 [RouteArt](https://github.com/nathankosty/route-art) · [live](https://route-art-nine.vercel.app) · *work in progress*
 
-Generates running routes shaped like images and words, exported as GPX. The pipeline works end to end; the shapes don't come out recognizable yet. The README documents exactly why — routing between sparse vertices lets the shortest path wander, measured at a 2× distance overshoot — and what I'd do about it.
+Generates running routes shaped like images and words, exported as GPX. The pipeline works end to end; the shapes don't come out recognizable yet. The README documents exactly why (routing between sparse vertices lets the shortest path wander, measured at a 2× distance overshoot) and what I'd do about it.
 
 `React` `TypeScript` `Leaflet` `OSRM`
 
