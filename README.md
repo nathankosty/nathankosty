@@ -18,13 +18,13 @@ Chess.com-style move-quality analysis for Settlers of Catan — win-probability 
 
 `Python` `Pyodide/WASM` `React` `Monte Carlo`
 
-### 🌍 [Emissions & Population Analysis](https://github.com/nathankosty/EmissionsProject)
+### 🌍 [Emissions & Population Analysis](https://github.com/nathankosty/emissions-analysis)
 
 Relational schema design and an ETL pipeline loading World Bank and Our World in Data datasets into MySQL, then a SQL + pandas layer that turns them into five charts about population against CO2 output.
 
 `Python` `MySQL` `pandas` `matplotlib`
 
-### 🏃 [RouteArt](https://github.com/nathankosty/RouteArt) · [live](https://route-art-nine.vercel.app) · *work in progress*
+### 🏃 [RouteArt](https://github.com/nathankosty/route-art) · [live](https://route-art-nine.vercel.app) · *work in progress*
 
 Generates running routes shaped like images and words, exported as GPX. The pipeline works end to end; the shapes don't come out recognizable yet. The README documents exactly why — routing between sparse vertices lets the shortest path wander, measured at a 2× distance overshoot — and what I'd do about it.
 
@@ -32,4 +32,4 @@ Generates running routes shaped like images and words, exported as GPX. The pipe
 
 ---
 
-📫 **nathankosty@gmail.com**
+📫 **[LinkedIn](https://www.linkedin.com/in/nathan-kostynick-182200356/)** · **nathankosty@gmail.com**
